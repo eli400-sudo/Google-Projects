@@ -1,0 +1,6 @@
+{
+  "appId": "com.hoaguard.app",
+  "appName": "HOA Guard",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
