@@ -7,7 +7,7 @@ let scanCount = 0;
 let chatQuestionCount = 0;
 
 // Stripe & AI API Gateway State
-const PAYMENT_GATEWAY_URL = 'http://localhost:3000';
+const PAYMENT_GATEWAY_URL = 'https://hoa-guard.onrender.com';
 let stripeInstance = null;
 let stripeCardElement = null;
 let isRealStripeEnabled = false;
